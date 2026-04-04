@@ -1,16 +1,63 @@
-## Hi there 👋
+# Olá! Eu sou o Eric 👋
 
-<!--
-**Eric-dev100/Eric-dev100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu portfólio! Sou estudante de **Ciência da Computação** no IFAM (Instituto Federal do Amazonas) com um grande foco em me especializar nas áreas de **Machine Learning**, **Inteligência Artificial** e **LLMs (Large Language Models)**. 
 
-Here are some ideas to get you started:
+Sou apaixonado por resolver problemas complexos através de código, seja estruturando a interface de um sistema em C ou extraindo insights valiosos de grandes bases de dados usando Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Minhas Competências e Tecnologias
+
+* **Linguagens de Programação:** Python, C.
+* **Análise de Dados e Visualização:** Pandas, NumPy, Matplotlib, Seaborn, PySpark.
+* **Conhecimentos Acadêmicos:** Álgebra Linear, Cálculo, Matemática Discreta e Estruturas de Dados.
+* **Áreas de Interesse:** Processamento de Linguagem Natural (PLN), Automação, Criação de Interfaces (UI).
+
+---
+
+🚀 **Projetos em Destaque**
+---
+Aqui estão alguns dos projetos práticos que desenvolvi, refletindo minha jornada desde a estruturação de sistemas até a análise de dados aplicada.
+
+1. 🌐 **Monitoramento de Infraestrutura de Banda Larga Fixa**
+   * **Tecnologias:** Python, Pandas, Seaborn
+   * **Descrição:** Análise exploratória focada na capacidade do *backhaul* de banda larga no Brasil. Utilizei bases de dados da Anatel e do IBGE para limpar, cruzar e gerar visualizações que identificam regiões próximas ao esgotamento de rede (taxa de ocupação superior a 80%).
+
+2. 📱 **Transição Tecnológica na Telefonia Móvel (Anatel)**
+   * **Tecnologias:** Python, Pandas, Matplotlib
+   * **Descrição:** Estudo da evolução temporal dos acessos de telefonia móvel no Brasil. O script realiza engenharia de atributos com datas (Time Series) para mapear o ciclo de vida de tecnologias como GSM, 3G e 4G, além de gerar rankings comparativos entre os estados brasileiros com maior volume de acessos.
+
+3. 🌳 **Análise de Desmatamento nos Biomas Brasileiros (PRODES/INPE)**
+   * **Tecnologias:** Python, Pandas, Seaborn
+   * **Descrição:** Levantamento do avanço do desmatamento entre 2000 e 2023. O grande diferencial desta análise é a criação de métricas relativas (% da área perdida), permitindo uma visão clara não apenas dos estados que mais desmatam em números absolutos, mas daqueles que sofrem o maior impacto proporcional aos seus territórios.
+
+4. 💸 **App de Finanças Pessoais com IA (Vibe Coding)**
+   * **Tecnologias:** Python, IA Conversacional
+   * **Descrição:** Desenvolvimento de um aplicativo de finanças pessoais explorando interações inteligentes e o conceito de *vibe coding*. O projeto utiliza base de laboratórios da DIO e foca em estruturar uma experiência de usuário guiada por inteligência artificial.
+
+5. 💾 **Benchmark de Arquiteturas de Big Data e Formatos de Arquivos**
+   * **Tecnologias:** Python, PySpark, Pandas
+   * **Descrição:** Análise comparativa de desempenho e consumo de recursos (CPU e RAM) entre diferentes formatos de armazenamento de dados, abordando estruturas em Texto, Linha, Coluna e Memória (CSV, Parquet, Avro, Arrow, etc.). O teste de performance foi executado com um volume superior a 4 milhões de registros.
+### 🎓 Certificados
+
+| Curso / Certificação | Instituição | Data de Emissão |
+| :--- | :--- | :--- |
+| Modelos de Processos Ágeis | Ibmec | Abr / 2026 |
+| Introdução a Cibersegurança | Cisco Networking Academy | Mar / 2026 |
+| Inteligência Artificial na Prática | DIO / CAIXA | Jan / 2026 |
+| Lab. de IA Conversacional no Contexto Acadêmico | Samsung Ocean | Jul / 2025 |
+| Ciência de Dados: Laboratório em Pandas e Python | Samsung Ocean | Jun / 2025 |
+| Introdução a Python | Samsung Ocean | Jun / 2025 |
+| Conceitos e Características dos Projetos | FGV Online | Jun / 2025 |
+| Excel 2016 - Básico | Fundação Bradesco | Mai / 2025 |
+| Método Cis - Inteligência Emocional | Febracis | Fev / 2025 |
+
+## 📚 O que estou aprendendo agora?
+No momento, estou me aprofundando nos fundamentos matemáticos da Inteligência Artificial, estudando técnicas de Processamento de Linguagem Natural e também fazendo um grande aprofundamento na área de Análise de Dados, preparando o terreno para construir e treinar meus próprios modelos de Machine Learning no futuro.
+
+---
+
+## 📫 Como me encontrar
+* **GitHub:** [Eric-dev100](https://github.com/Eric-dev100)
+* **LinkedIn:** *[Eric Alencar](https://www.linkedin.com/in/ericalencar/)*
+* **E-mail:** *ericgabrielalencar@gmail.com*
